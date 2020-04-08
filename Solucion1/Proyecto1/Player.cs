@@ -11,6 +11,9 @@ namespace Proyecto1
         private string Surname { get; set; }
         private int Number { get; set; }
 
+
+        public Team Team { get; set; }
+
         /// <summary>
         /// Parametros de entrada
         /// </summary>

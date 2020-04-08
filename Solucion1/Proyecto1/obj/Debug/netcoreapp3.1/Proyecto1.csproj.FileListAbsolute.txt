@@ -11,3 +11,16 @@ C:\Users\marde\Documents\Workspaces\Demo1\Solucion1\Proyecto1\obj\Debug\netcorea
 C:\Users\marde\Documents\Workspaces\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.pdb
 C:\Users\marde\Documents\Workspaces\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.genruntimeconfig.cache
 C:\Users\marde\Documents\Workspaces\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.csprojAssemblyReference.cache
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\bin\Debug\netcoreapp3.1\Proyecto1.exe
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\bin\Debug\netcoreapp3.1\Proyecto1.deps.json
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\bin\Debug\netcoreapp3.1\Proyecto1.runtimeconfig.json
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\bin\Debug\netcoreapp3.1\Proyecto1.runtimeconfig.dev.json
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\bin\Debug\netcoreapp3.1\Proyecto1.dll
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\bin\Debug\netcoreapp3.1\Proyecto1.pdb
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.csprojAssemblyReference.cache
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.AssemblyInfoInputs.cache
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.AssemblyInfo.cs
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.dll
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.pdb
+C:\Users\marde\Source\Repos\Demo1\Solucion1\Proyecto1\obj\Debug\netcoreapp3.1\Proyecto1.genruntimeconfig.cache
